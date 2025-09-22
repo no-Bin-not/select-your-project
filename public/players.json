@@ -1,0 +1,202 @@
+[
+  {
+    "player_image": "https://i.ibb.co.com/rKrdBTsR/shakib-al-hasan-smiling-8olow941lckcha6b.jpg",
+    "player_name": "Shakib Al Hasan",
+    "player_country": "Bangladesh",
+    "playing_role": "All-Rounder",
+    "batting_style": "Left-Hand Bat",
+    "bowling_style": "Slow Left-Arm Orthodox",
+    "rating": 9.7,
+    "price": "85000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/gZXCsGTN/gettyimages-1241798654-612x612.jpg",
+    "player_name": "Tamim Iqbal",
+    "player_country": "Bangladesh",
+    "playing_role": "Batsman",
+    "batting_style": "Left-Hand Bat",
+    "bowling_style": "Right-Arm Offbreak",
+    "rating": 9.1,
+    "price": "80000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/LDFxdG9s/378198-6.webp",
+    "player_name": "Andre Russell",
+    "player_country": "West Indies",
+    "playing_role": "All-Rounder",
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "Right-Arm Fast",
+    "rating": 9.5,
+    "price": "100000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/Kj8TF385/sunil-narine.jpg",
+    "player_name": "Sunil Narine",
+    "player_country": "West Indies",
+    "playing_role": "Bowler",
+    "batting_style": "Left-Hand Bat",
+    "bowling_style": "Right-Arm Offbreak",
+    "rating": 9.0,
+    "price": "90000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/NgvNGtyG/gettyimages-1711546689-612x612.jpg",
+    "player_name": "Mushfiqur Rahim",
+    "player_country": "Bangladesh",
+    "playing_role": "Wicketkeeper-Batsman",
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "N/A",
+    "rating": 8.8,
+    "price": "75000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/DPnGPX12/af27b2c89f840b3d17639d0654994989.jpg",
+    "player_name": "Taskin Ahmed",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "batting_style": "Left-Hand Bat",
+    "bowling_style": "Right-Arm Fast-Medium",
+    "rating": 9.3,
+    "price": "80000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/GGz7sYY/gettyimages-2154844029-612x612.jpg",
+    "player_name": "Litton Das",
+    "player_country": "Bangladesh",
+    "playing_role": "Wicketkeeper-Batsman",
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "N/A",
+    "rating": 8.9,
+    "price": "78000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/7xZgKFMk/gettyimages-1711545045-612x612.jpg",
+    "player_name": "Mustafizur Rahman",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "batting_style": "Left-Hand Bat",
+    "bowling_style": "Left-Arm Medium-Fast",
+    "rating": 9.2,
+    "price": "85000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/nNZXffrj/malanheadshot.png",
+    "player_name": "Dawid Malan",
+    "player_country": "England",
+    "playing_role": "Batsman",
+    "batting_style": "Left-Hand Bat",
+    "bowling_style": "Right-Arm Legbreak",
+    "rating": 8.7,
+    "price": "60000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/Nnbv4WW4/debutant-batter-towhid-hridoy-during-bangladesh-england-1st-t20i-match-of-three-match-series-at-zahu.jpg",
+    "player_name": "Towhid Hridoy",
+    "player_country": "Bangladesh",
+    "playing_role": "Batsman",
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "Right-Arm Offbreak",
+    "rating": 8.4,
+    "price": "45000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/SD8WFSnd/57792.webp",
+    "player_name": "Kyle Mayers",
+    "player_country": "West Indies",
+    "playing_role": "All-Rounder",
+    "batting_style": "Left-Hand Bat",
+    "bowling_style": "Right-Arm Medium",
+    "rating": 8.6,
+    "price": "70000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/TxpGD8K7/andre-russell.jpg",
+    "player_name": "Paul Stirling",
+    "player_country": "Ireland",
+    "playing_role": "Batsman",
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "Right-Arm Offbreak",
+    "rating": 8.2,
+    "price": "55000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/FkZb2Pw8/64151.webp",
+    "player_name": "Mohammad Saifuddin",
+    "player_country": "Bangladesh",
+    "playing_role": "All-Rounder",
+    "batting_style": "Left-Hand Bat",
+    "bowling_style": "Right-Arm Medium-Fast",
+    "rating": 8.5,
+    "price": "65000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/9HBgh9Wc/images.jpg",
+    "player_name": "Khushdil Shah",
+    "player_country": "Pakistan",
+    "playing_role": "All-Rounder",
+    "batting_style": "Left-Hand Bat",
+    "bowling_style": "Slow Left-Arm Orthodox",
+    "rating": 8.1,
+    "price": "50000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/VWYCQXym/images-1.jpg",
+    "player_name": "Mashrafe Mortaza",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "Right-Arm Fast-Medium",
+    "rating": 8.0,
+    "price": "40000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/7Nkq0Pdw/FET9dus-XMAU5gv-N-1280x640.jpg",
+    "player_name": "Anrich Nortje",
+    "player_country": "South Africa",
+    "playing_role": "Bowler",
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "Right-Arm Fast",
+    "rating": 9.4,
+    "price": "95000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/rK7VZJXF/63752.webp",
+    "player_name": "Shoriful Islam",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "batting_style": "Left-Hand Bat",
+    "bowling_style": "Left-Arm Fast-Medium",
+    "rating": 8.8,
+    "price": "75000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/jvr7CFwX/mohammad-rizwan-pakistani-cricketer-hd-png-photo-free-1720010856-1755428501.webp",
+    "player_name": "Mohammad Rizwan",
+    "player_country": "Pakistan",
+    "playing_role": "Wicketkeeper-Batsman",
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "N/A",
+    "rating": 9.6,
+    "price": "92000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/JRCCtGDr/najmul-hossain-shanto-bangladeshi-cricketer-free-png-image-1739878876-1429779220.webp",
+    "player_name": "Najmul Hossain Shanto",
+    "player_country": "Bangladesh",
+    "playing_role": "Batsman",
+    "batting_style": "Left-Hand Bat",
+    "bowling_style": "Right-Arm Offbreak",
+    "rating": 8.9,
+    "price": "80000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/N6nrDSyK/mehedihasanheadshot-min.jpg",
+    "player_name": "Mahedi Hasan",
+    "player_country": "Bangladesh",
+    "playing_role": "All-Rounder",
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "Right-Arm Offbreak",
+    "rating": 8.4,
+    "price": "55000 USD"
+  }
+]
